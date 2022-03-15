@@ -1,6 +1,6 @@
 # WEBAPI
 
-<img src="assets/logo.png" alt="Logo" width="400px">
+<img src="assets/logo.png" alt="Logo" width="200px">
 
 ### Sobre
 WEBAPI feita basicamente com JavaScript e Node. É possivel ler, adicionar, alterar e excluir os dados dos usuários.
